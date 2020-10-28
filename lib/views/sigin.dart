@@ -17,7 +17,7 @@ class _SigninState extends State<Signin> {
         child: Column(
           children: [
             TextField(
-              decoration: InputDecoration(hintText: "Enter Email"),
+              decoration: InputDecoration(hintText: "Enter Email ID"),
             ),
             TextField(
               obscureText: true,
